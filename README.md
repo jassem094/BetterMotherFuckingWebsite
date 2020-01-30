@@ -1,1 +1,1 @@
-https://jassem094.github.io/BetterMotherFuckingWebsite/
+https://jassem094.github.io/BetterMotherFuckingWebsite/BestmotherfuckingWebsite
