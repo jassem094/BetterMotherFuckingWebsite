@@ -1,43 +1,61 @@
 html{
-	background-color:#fefefe
-	}
+  background-color:#fefefe
+  }
+
 body{
-	font-family:Open Sans,Arial;
-	color:#454545;
-	font-size:16px;
-	margin:2em auto;	
-	max-width:800px;
-	padding:1em;
-	line-height:1.4;
-	text-align:justify
-	}
+  font-family:Open Sans,Arial;
+  margin:2em auto;  
+  max-width:1200px;
+  line-height:1.4;
+  text-align:justify
+  }
+
+  .para{
+    font-family:Arial;
+    text-align: justify;
+    font-size:16px;
+    color:black;
+  }
 h1{
-	text-align: center;
-	color: red;
-	display: block;
-  	font-size: 2em;
-  	margin-top: 0.67em;
-  	margin-bottom: 0.67em;
-  	margin-left: 0;
-  	margin-right: 0;
-  	font-weight: bold;
+  text-align: center;
+  color: red;
+  display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
 }
 h2 {
-  	display: block;
-  	font-size: 1.5em;
-  	margin-top: 0.83em;
-  	margin-bottom: 0.83em;
-  	margin-left: 0;
-  	margin-right: 0;
-  	font-weight: bold;
-  	text-decoration: underline;
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    text-decoration: underline;
 }
 h3 {
-	color:blue;
-  	display: block;
-  	margin-top: 0.83em;
-  	margin-bottom: 0.83em;
-  	margin-left: 0;
-  	margin-right: 0;
-  	font-weight: bold;
+    color:blue;
+    display: block;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+aside{
+  text-align: center;
+  color: blue;
+  font-weight: bold;
+}
+ul{
+  font-weight: bold;
+}
+div{
+  text-align: center;
+  margin-top: 20px;
+
 }
